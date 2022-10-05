@@ -44,7 +44,9 @@ Skills: REACT / JS / HTML / CSS / TAILWIND / BOOTSTRAP / NODE / EXPRESS / MONGOD
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shorifuddin2&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harun181)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=harun181&show_icons=true)  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shorifuddin2&show_icons=true&theme=cobalt) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shorifuddin2&theme=cobalt)  
 
