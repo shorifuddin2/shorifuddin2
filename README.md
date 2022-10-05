@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **shorifuddin2/shorifuddin2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me:https://portfolio-of-shorif-uddin.web.app/
 - 😄 Pronouns: Good Content
 - ⚡ Fun fact: Movie Waching
--->
+
 <h1 align="center">Hi 👋, I'm Shorif Uddin</h1>
 <h3 align="center">### A MERN Stack Developer from Bangladesh</h3>
 
