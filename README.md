@@ -1,4 +1,4 @@
-![I am Web Developer](https://github.com/shorifuddin2/shorifuddin2/blob/main/Mobile%20App%20Development%20Illustrated%20Facebook%20Cover.png)
+![I am Web Developer](https://github.com/shorifuddin2/shorifuddin2/blob/main/2.png)
 
 ### Hi there 👋
 
