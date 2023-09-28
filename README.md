@@ -11,19 +11,19 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Intervew
 - 🤔 I’m looking for help with Resoce
 - 💬 Ask me about shorifuddin240915@gmail.com
-- 📫 How to reach me:https://portfolio-of-shorif-uddin.web.app/
+- 📫 How to reach me:https://portfolio-shorif-uddin.vercel.app/
 - 😄 Pronouns: Good Content
 - ⚡ Fun fact: Movie Waching
 
 <h1 align="center">Hi 👋, I'm Shorif Uddin</h1>
 <h3 align="center">### A MERN Stack Developer from Bangladesh</h3>
 
-Hi, I'm a dedicated and passionate MERN Developer. I'm a quick learner and eager to learn new technologies to expand my knowledge. I want to see myself as a Junior MERN Developer in the next 1 years.
+Hi, I'm a dedicated and passionate MERN Developer. I'm a quick learner and eager to learn new technologies to expand my knowledge. I want to see myself as a Junior MERN Developer in the next 2 years.
 
 Skills: REACT / JS / HTML / CSS / TAILWIND / BOOTSTRAP / NODE / EXPRESS / MONGODB / FIREBASE
 
 - 🌱 I’m currently learning TypeScript and React Native 
-- 📫 How to reach me: shorifuddin240915@gmail.com 
+- 📫 How to reach me: shorifuddin.milon@gmail.com 
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
 
